@@ -1,1 +1,1 @@
-# 0x00 shell directory
+# listing the content of the directory
